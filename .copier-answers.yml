@@ -1,0 +1,19 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 1.0.6-14-gd3cc6e5
+_src_path: https://github.com/algorandfoundation/algokit-beaker-default-template.git
+algod_port: '4001'
+algod_server: http://localhost
+algod_token: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+author_email: null
+author_name: null
+ide_vscode: true
+indexer_port: '8980'
+indexer_server: http://localhost
+indexer_token: aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+project_name: testAlgoKit
+python_linter: 'null'
+use_python_black: true
+use_python_mypy: true
+use_python_pip_audit: true
+use_python_pytest: true
+
